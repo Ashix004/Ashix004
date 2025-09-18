@@ -41,7 +41,6 @@
 | Data Analytics | Deloitte (Forage) |
 | Data Visualisation | TATA (Forage) |
 | Data Analytics | Quantium (Forage) |
-| Google Cloud Gemini | Google |
 
 👉 [See all certificates →](https://github.com/Ashix004/ashi-certificates)
 
@@ -56,11 +55,6 @@
 ![Introduction to Generative AI](https://img.shields.io/badge/Introduction_to-Generative_AI-red?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ![Using Query ML](https://img.shields.io/badge/Using-Query_ML-green?style=for-the-badge&logo=googlebigquery&logoColor=white)
-<p align="center">
-  <img src="https://img.shields.io/badge/Gemini_for-Data_Scientists_&_Analysts-orange?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Boost_Productivity_with-Gemini_in_BigQuery-blue?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-</p>
-
 
 ## 📫 Connect with Me
 
