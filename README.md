@@ -46,6 +46,16 @@
 👉 [See all certificates →](https://github.com/Ashix004/ashi-certificates)
 
 ---
+## 🛡️ Badges
+![Boost Productivity with Gemini in BigQuery](https://img.shields.io/badge/Boost_Productivity_with-Gemini_in_BigQuery-blue?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+![Gemini for Data Scientists and Analysts](https://img.shields.io/badge/Gemini_for-Data_Scientists_&_Analysts-orange?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+![Gemini Models in BigQuery](https://img.shields.io/badge/Gemini_Models-in_BigQuery-success?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+![Introduction to Generative AI](https://img.shields.io/badge/Introduction_to-Generative_AI-red?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+![Using Query ML](https://img.shields.io/badge/Using-Query_ML-green?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ## 📫 Connect with Me
 
