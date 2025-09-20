@@ -29,8 +29,7 @@
 | Project | Tech | Link |
 |--------|------|------|
 | Fraud Detection App | Python, ML | [GitHub Repo](https://github.com/Ashix004/fruad-detection-replit) |
-| Sales Dashboard | Power BI | (Coming Soon...) |
-| Data Cleaning & Analysis | Excel, Pandas | (Coming Soon...) |
+| EV Sales Analysis | Python,Jupyter Notebook | 
 
 ---
 
