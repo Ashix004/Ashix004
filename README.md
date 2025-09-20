@@ -29,7 +29,7 @@
 | Project | Tech | Link |
 |--------|------|------|
 | Fraud Detection App | Python, ML | [GitHub Repo](https://github.com/Ashix004/fruad-detection-replit) |
-| EV Sales Analysis | Python,Jupyter Notebook | 
+| EV Sales Analysis | Python,Jupyter Notebook | [GitHub Repo](https://github.com/Ashix004/EV-Anlysis) |
 
 ---
 
